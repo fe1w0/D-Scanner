@@ -11,7 +11,7 @@ sudo apt update
 sudo apt upgrade -y
 
 # 安装 Python 和 pip
-# sudo apt install -y python3 python3-pip
+sudo apt install -y python3 python3-pip
 
 # 安装 Redis
 sudo apt install -y redis-server
